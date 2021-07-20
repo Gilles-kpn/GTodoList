@@ -1,6 +1,5 @@
 # GTodoList
 Gtodolist est la version desktop representant le front de la suite todolist
-Ceci est la version mobile de la suite todolist communiquant avec todolist api
 
 __Pre-requis__
 
@@ -12,6 +11,6 @@ __Pre-requis__
 __Configuration__
 
 * Importez le projet dans votre ide
-* Modifier l'adresse du serveur dans la class ApiCall afin de la faire correspondre avec votre serveur
+* Modifier l'adresse du serveur dans la class ApiBase afin de la faire correspondre avec votre serveur
 * importer les dependances 
 * Puis run le projet 
